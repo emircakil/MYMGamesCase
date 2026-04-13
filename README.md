@@ -2,7 +2,7 @@
 # Carpenter Game - MYM Games Case Project
 
 
-## 🎥 Gameplay Video
+## 🎥 Introduction Video
 - [Watch on YouTube](https://youtu.be/zOIypL-29X4)
 
 
